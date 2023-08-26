@@ -5,3 +5,13 @@ body{
     background-attachment: scroll;
 
 }
+button{
+    background-color: aliceblue;
+    border: 20px black;
+    border-radius: 30px;
+    padding: 10px;
+    margin: auto;
+    display:contents;
+    justify-content:space-evenly;
+    
+}
