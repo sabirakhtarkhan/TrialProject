@@ -3,7 +3,8 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: scroll;
-   margin-top: 150px;
+    margin-top: 150px;
+    text-align: center;
 
 }
 button{
@@ -25,4 +26,8 @@ input{
     border-radius: 6px;
     width: 400px;
     height: 40px;
+  }
+  nav{
+    justify-content:space-between;
+    gap: 30px;
   }
