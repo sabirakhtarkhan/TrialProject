@@ -27,7 +27,4 @@ input{
     width: 400px;
     height: 40px;
   }
-  nav{
-    justify-content:space-between;
-    gap: 30px;
-  }
+  
